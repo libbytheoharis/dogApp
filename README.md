@@ -1,2 +1,0 @@
-# dogApp
-Created with CodeSandbox
